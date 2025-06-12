@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kffaisal
 - 👀 I’m interested in remote sensing and geospatial data science
-- 🌱 I’m currently learning Google Earth Engine API for Python
-- 💞️ I’m looking to collaborate on land cover mapping project
+- 🌱 I’m currently working on Google Earth Engine both in Javascript and API for Python
+- 💞️ I’m looking to collaborate on land cover mapping or any remote sensing based project 
 - 📫 How to reach me at kf.faisal@gmail.com
 
 <!---
